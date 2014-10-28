@@ -44,6 +44,6 @@ namespace SpecFlowTestProj
 		
 		// Test Comment +1
 		
-		// New Test Comment
+		// New Test Comment +1
     }
 }
