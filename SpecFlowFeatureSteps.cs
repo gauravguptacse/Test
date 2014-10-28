@@ -49,5 +49,7 @@ namespace SpecFlowTestProj
 		// Added master comment 1
 		
 		// Added develop comment 1
+		// Added master comment 2
+		// Added master comment 3
     }
 }
