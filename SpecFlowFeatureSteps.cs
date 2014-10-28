@@ -42,6 +42,6 @@ namespace SpecFlowTestProj
         //    Assert.AreEqual(100, product);
         //}
 		
-		// Test Comment
+		// Test Comment +1
     }
 }
