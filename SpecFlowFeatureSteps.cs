@@ -33,7 +33,7 @@ namespace SpecFlowTestProj
         [Then(@"the result should be (.*) on the screen")]
         public void ThenTheResultShouldBeOnTheScreen(int p0)
         {
-            Assert.AreEqual(100, sum);
+            Assert.AreEqual(300, sum);
         }
 
         //[Then(@"the result should be (.*)")]
@@ -43,6 +43,7 @@ namespace SpecFlowTestProj
         //}
 		
 		// Added a comment in develop 1.
+		// Added a comment in Master 9.
 
     }
 }
